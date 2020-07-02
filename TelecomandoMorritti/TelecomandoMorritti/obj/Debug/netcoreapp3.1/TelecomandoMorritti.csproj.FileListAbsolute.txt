@@ -1,0 +1,12 @@
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\bin\Debug\netcoreapp3.1\TelecomandoMorritti.exe
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\bin\Debug\netcoreapp3.1\TelecomandoMorritti.deps.json
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\bin\Debug\netcoreapp3.1\TelecomandoMorritti.runtimeconfig.json
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\bin\Debug\netcoreapp3.1\TelecomandoMorritti.runtimeconfig.dev.json
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\bin\Debug\netcoreapp3.1\TelecomandoMorritti.dll
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\bin\Debug\netcoreapp3.1\TelecomandoMorritti.pdb
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\obj\Debug\netcoreapp3.1\TelecomandoMorritti.csprojAssemblyReference.cache
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\obj\Debug\netcoreapp3.1\TelecomandoMorritti.AssemblyInfoInputs.cache
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\obj\Debug\netcoreapp3.1\TelecomandoMorritti.AssemblyInfo.cs
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\obj\Debug\netcoreapp3.1\TelecomandoMorritti.dll
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\obj\Debug\netcoreapp3.1\TelecomandoMorritti.pdb
+C:\Users\MMorr\Desktop\its\programmazione\C#\TelecomandoMorritti\TelecomandoMorritti\obj\Debug\netcoreapp3.1\TelecomandoMorritti.genruntimeconfig.cache

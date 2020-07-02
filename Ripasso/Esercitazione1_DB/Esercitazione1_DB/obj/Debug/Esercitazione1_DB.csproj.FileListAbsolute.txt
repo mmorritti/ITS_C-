@@ -1,0 +1,7 @@
+C:\Users\MMorr\Desktop\ITS\programmazione\C#\Ripasso\Esercitazione1_DB\Esercitazione1_DB\bin\Debug\Esercitazione1_DB.exe.config
+C:\Users\MMorr\Desktop\ITS\programmazione\C#\Ripasso\Esercitazione1_DB\Esercitazione1_DB\bin\Debug\Esercitazione1_DB.exe
+C:\Users\MMorr\Desktop\ITS\programmazione\C#\Ripasso\Esercitazione1_DB\Esercitazione1_DB\bin\Debug\Esercitazione1_DB.pdb
+C:\Users\MMorr\Desktop\ITS\programmazione\C#\Ripasso\Esercitazione1_DB\Esercitazione1_DB\obj\Debug\Esercitazione1_DB.csprojAssemblyReference.cache
+C:\Users\MMorr\Desktop\ITS\programmazione\C#\Ripasso\Esercitazione1_DB\Esercitazione1_DB\obj\Debug\Esercitazione1_DB.csproj.CoreCompileInputs.cache
+C:\Users\MMorr\Desktop\ITS\programmazione\C#\Ripasso\Esercitazione1_DB\Esercitazione1_DB\obj\Debug\Esercitazione1_DB.exe
+C:\Users\MMorr\Desktop\ITS\programmazione\C#\Ripasso\Esercitazione1_DB\Esercitazione1_DB\obj\Debug\Esercitazione1_DB.pdb

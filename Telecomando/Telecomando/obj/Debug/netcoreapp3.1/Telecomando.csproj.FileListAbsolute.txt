@@ -1,0 +1,12 @@
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\bin\Debug\netcoreapp3.1\Telecomando.exe
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\bin\Debug\netcoreapp3.1\Telecomando.deps.json
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\bin\Debug\netcoreapp3.1\Telecomando.runtimeconfig.json
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\bin\Debug\netcoreapp3.1\Telecomando.runtimeconfig.dev.json
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\bin\Debug\netcoreapp3.1\Telecomando.dll
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\bin\Debug\netcoreapp3.1\Telecomando.pdb
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\obj\Debug\netcoreapp3.1\Telecomando.csprojAssemblyReference.cache
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\obj\Debug\netcoreapp3.1\Telecomando.AssemblyInfoInputs.cache
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\obj\Debug\netcoreapp3.1\Telecomando.AssemblyInfo.cs
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\obj\Debug\netcoreapp3.1\Telecomando.dll
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\obj\Debug\netcoreapp3.1\Telecomando.pdb
+C:\Users\MMorr\Desktop\its\programmazione\C#\Telecomando\Telecomando\obj\Debug\netcoreapp3.1\Telecomando.genruntimeconfig.cache
