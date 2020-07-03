@@ -1,0 +1,7 @@
+C:\Users\MMorr\Desktop\ITS\Programmazione\C#\ITS_C-\DB1\DB1\bin\Debug\DB1.exe.config
+C:\Users\MMorr\Desktop\ITS\Programmazione\C#\ITS_C-\DB1\DB1\bin\Debug\DB1.exe
+C:\Users\MMorr\Desktop\ITS\Programmazione\C#\ITS_C-\DB1\DB1\bin\Debug\DB1.pdb
+C:\Users\MMorr\Desktop\ITS\Programmazione\C#\ITS_C-\DB1\DB1\obj\Debug\DB1.csprojAssemblyReference.cache
+C:\Users\MMorr\Desktop\ITS\Programmazione\C#\ITS_C-\DB1\DB1\obj\Debug\DB1.csproj.CoreCompileInputs.cache
+C:\Users\MMorr\Desktop\ITS\Programmazione\C#\ITS_C-\DB1\DB1\obj\Debug\DB1.exe
+C:\Users\MMorr\Desktop\ITS\Programmazione\C#\ITS_C-\DB1\DB1\obj\Debug\DB1.pdb
