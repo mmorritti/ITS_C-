@@ -25,12 +25,17 @@ namespace Esercitazione2_DB
             readerCommand.Connection = connection;
             readerCommand.CommandText = "SELECT * FROM [Inventory]";
             SqlDataReader reader = readerCommand.ExecuteReader();
-
+           
+            
             while (reader.Read())
             {
                 String ris = reader["Id"].ToString() + " - " + reader["Price"].ToString() + " Euro";
                 Console.WriteLine(ris);
             }
+
+            reader.Close();
+
+            Console.WriteLine();
 
             //Secondo comando reader
             SqlCommand readerCommand2 = new SqlCommand();
@@ -45,6 +50,8 @@ namespace Esercitazione2_DB
 
                 Console.WriteLine(ris);
             }
+
+            reader2.Close();
 
             Console.WriteLine();
 
@@ -63,6 +70,7 @@ namespace Esercitazione2_DB
             int rowsAffected = nonQueryCommand.ExecuteNonQuery();
             Console.WriteLine("Rows Affected= " + rowsAffected);
 
+            
             connection.Close();
 
             Console.WriteLine();
