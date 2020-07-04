@@ -11,14 +11,15 @@ namespace DB1
     {
         static void Main(string[] args)
         {
+            SqlConnection connection = new SqlConnection();
             try
             {
-                SqlConnection connection = new SqlConnection();
+               
                 //stringa connessione
-                connection.ConnectionString = @"Server=DESKTOP-45672OV\SQLEXPRESS;
-                                            Database=AdventureWorks2017;
-                                            Trusted_Connection=True;
-                                            MultipleActiveResultSets = true;";
+                connection.ConnectionString = @"Server=LOCALHOST\SQLEXPRESS;
+                                               Database=AdventureWorks2017;
+                                               User Id=sa;
+                                               Password=Its2020!;";
                 connection.Open();
 
                 //SCALAR COMMAND
@@ -77,6 +78,10 @@ namespace DB1
             {
 
                 throw;
+            }
+            finally
+            {
+                connection.Close();
             }
            
                 
