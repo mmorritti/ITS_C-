@@ -13,7 +13,7 @@ namespace DataAdapterLetion2019
         static void Main(string[] args)
         {
             SqlConnection connection = new SqlConnection();
-            connection.ConnectionString = @"Server=DESKTOP-45672OV\SQLEXPRESS;Database=AdventureWorks2017;Trusted_Connection=True;";
+            connection.ConnectionString = @"Server=LOCALHOST\SQLEXPRESS;Database=AdventureWorks2017;Trusted_Connection=True;";
 
             SqlDataAdapter adapter = new SqlDataAdapter();
 
