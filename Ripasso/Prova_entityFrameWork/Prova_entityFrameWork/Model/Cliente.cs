@@ -8,9 +8,9 @@ namespace Prova_entityFrameWork.Model
 {
     public class Cliente
     {
-        int Id { get; set; }
-        string nome { get; set; }
-        string cognome { get; set; }
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public string Cognome { get; set; }
         List<Indirizzo>indirizzi { get; set; }
 
     }

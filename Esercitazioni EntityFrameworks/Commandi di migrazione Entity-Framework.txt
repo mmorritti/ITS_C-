@@ -1,0 +1,13 @@
+Migration Command
+
+Tools - Nuget Package Manager - Package Manager Console
+
+Enable-Migrations
+Add-Migration NomeMigrazione
+Update-Database
+Update-Database -t 0 //svuota tutto il DB
+Update-Database -t nomeMigrazione //applica la migrazione che abbiamo chiesto 
+Script-Migration //comando per creare scrip sql della migrazione || valido sono in .net core
+
+command Documentation 
+https://docs.microsoft.com/it-it/ef/core/managing-schemas/migrations/?tabs=vs

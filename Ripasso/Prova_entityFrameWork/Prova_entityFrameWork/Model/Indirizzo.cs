@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Prova_entityFrameWork.Model
 {
-    class Indirizzo
+    public class Indirizzo
     {
-        int Id { get; set; }
-        string indirizzo { get;  set; }
-        string citta { get; set; }
+        public int Id { get; set; }
+        public string indirizzo { get;  set; }
+        public string citta { get; set; }
     }
 }
