@@ -1,0 +1,9 @@
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataAccess\bin\Debug\ThreeTier_DataAccess.dll
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataAccess\bin\Debug\ThreeTier_DataAccess.pdb
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataAccess\bin\Debug\ThreeTier_DataObject.dll
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataAccess\bin\Debug\ThreeTier_DataObject.pdb
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataAccess\obj\Debug\ThreeTier_DataAccess.csprojAssemblyReference.cache
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataAccess\obj\Debug\ThreeTier_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataAccess\obj\Debug\ThreeTier_DataAccess.csproj.CopyComplete
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataAccess\obj\Debug\ThreeTier_DataAccess.dll
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataAccess\obj\Debug\ThreeTier_DataAccess.pdb

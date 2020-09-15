@@ -1,0 +1,6 @@
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataObject\bin\Debug\ThreeTier_DataObject.dll
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataObject\bin\Debug\ThreeTier_DataObject.pdb
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataObject\obj\Debug\ThreeTier_DataObject.csprojAssemblyReference.cache
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataObject\obj\Debug\ThreeTier_DataObject.csproj.CoreCompileInputs.cache
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataObject\obj\Debug\ThreeTier_DataObject.dll
+C:\Users\vittorio\Desktop\ThreeTier\ThreeTier_DataObject\obj\Debug\ThreeTier_DataObject.pdb

@@ -11,7 +11,14 @@ namespace WATestFirst_empty_
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            Label1.Text = "Prova label";
+            
 
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Label1.Text = "Sacch";
         }
     }
 }
