@@ -1,0 +1,156 @@
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\MVCTest.dll.config
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\MVCTest.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\MVCTest.pdb
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\csc.exe
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\csc.exe.config
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\csc.rsp
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\csi.exe
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\csi.exe.config
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\csi.rsp
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.AppContext.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Console.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Net.Http.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\vbc.exe
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\vbc.exe.config
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\vbc.rsp
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\EntityFramework.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\EntityFramework.SqlServer.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Helpers.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Mvc.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Razor.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Webpages.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Webpages.Razor.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\EntityFramework.xml
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\EntityFramework.SqlServer.xml
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Razor.xml
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Webpages.xml
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Webpages.Razor.xml
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Helpers.xml
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\System.Web.Mvc.xml
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.csprojAssemblyReference.cache
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.CoreCompileInputs.cache
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.CopyComplete
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.dll
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.pdb
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.Migrations.FirstConfiguration.resources
+C:\Users\vittorio\Desktop\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.GenerateResource.cache
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\MVCTest.dll.config
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\MVCTest.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\MVCTest.pdb
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\csc.exe
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\csc.exe.config
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\csc.rsp
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\csi.exe
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\csi.exe.config
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\csi.rsp
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.AppContext.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Console.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Net.Http.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\vbc.exe
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\vbc.exe.config
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\vbc.rsp
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\EntityFramework.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\EntityFramework.SqlServer.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Helpers.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Mvc.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Razor.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Webpages.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Webpages.Razor.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\EntityFramework.xml
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\EntityFramework.SqlServer.xml
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Razor.xml
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Webpages.xml
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Webpages.Razor.xml
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Helpers.xml
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\System.Web.Mvc.xml
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\obj\Debug\MVCTest.csprojAssemblyReference.cache
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\obj\Debug\MVCTest.Migrations.FirstConfiguration.resources
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.GenerateResource.cache
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.CoreCompileInputs.cache
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.CopyComplete
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\obj\Debug\MVCTest.dll
+C:\Users\MMorr\OneDrive\Desktop\ITS\Programmazione\ITS_C-\WEB APP\MVC\MVC(prof)\MVCTest\MVCTest\obj\Debug\MVCTest.pdb
