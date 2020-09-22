@@ -1,0 +1,46 @@
+﻿@model WAPartialViews.ViewModels.UserAddressesVewModel
+
+<p>
+    @if (Model != null)
+    {
+        @Html.ActionLink("Create New Address", "../Addresses/Create/" + Model.UserID)
+    }
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Street
+        </th>
+        <th>
+            Number
+        </th>
+        <th>
+            City
+        </th>
+        <th></th>
+    </tr>
+
+    @if (Model != null)
+    {
+        foreach (var item in Model.UserAddresses)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Street)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Number)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.City)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    }
+
+</table>
