@@ -1,0 +1,18 @@
+Sviluppo di una applicazione ASP.NET MVC
+L'applicazione dovrà essere in grado di gestire le seguenti entità:
+1. Azienda (nel nostro caso ITS)
+2. Sedi dell'azienda
+3. Corsi
+4. Docenti
+5. Partecipanti
+
+Dovrà essere in grado di gestire:
+a. una sola azienda (ITS)
+b. un elenco di sedi per l'unica azienda presente a sistema
+c. un elenco di corsi specifici per sede
+d. uno o più docenti associati ad uno o più corsi
+e. uno o più partecipanti associati ad un solo corso
+
+Lo studente deciderà iun autonomia il numero 
+e la natura delle proprietà trattate/esposte da ogni singola entità
+
